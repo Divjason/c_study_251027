@@ -1,0 +1,7 @@
+﻿  251015_01.c
+  251015_02.c
+  Generating Code...
+251015_02.obj : error LNK2005: main already defined in 251015_01.obj
+251015_03.obj : error LNK2005: main already defined in 251015_01.obj
+251015_04.obj : error LNK2005: main already defined in 251015_01.obj
+C:\Users\Admin\source\repos\251015_Sol\x64\Debug\251015.exe : fatal error LNK1169: one or more multiply defined symbols found
